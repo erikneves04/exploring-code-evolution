@@ -81,9 +81,14 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: https://github.com/spring-projects/spring-boot
+2. Gráfico selecionado: 
+
+<img width="677" height="340" alt="image" src="https://github.com/user-attachments/assets/c12ecf81-a0e0-498d-889e-2355f7b6567e" />
+
+3. Explicação:
+
+O gráfico de média de linhas por método mostra que o Spring Boot é muito bem organizado. Mesmo com o projeto crescendo de 541 mil para 823 mil linhas de código entre 2021 e 2026, o tamanho médio de cada método quase não mudou, saindo de 6.5 e chegando a apenas 6.8 linhas. Isso prova que os desenvolvedores preferem criar funções pequenas e simples em vez de deixar o código confuso e gigante à medida que o framework evolui. Essa estabilidade nessa métrica é um ótimo sinal de saúde do código. Manter métodos curtos (menos de 7 linhas, em média) torna o sistema muito mais fácil de entender, testar e consertar. É uma prova de que o projeto mantém a qualidade e a organização, garantindo que o Spring Boot continue fácil de manter mesmo sendo um sistema enorme.
 
 
 
